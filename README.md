@@ -1,10 +1,4 @@
 
-# AUTOMATIC
-
-Entreprise de création de logiciels et d’applications sur mesure.
-
-## Vision
-Créer des outils numériques innovants, performants et accessibles pour accompagner la croissance des entreprises et startups.
 
 # AUTOMATIC
 
